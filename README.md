@@ -1,7 +1,9 @@
 # Hog-Dice-Game
 
 Once you have downloaded the files, if you wish to play against a friend, enter the command: 
-* **python3 hog_gui.py**<br/>If you wish to play against a computer strategy, enter the command: 
+* **python3 hog_gui.py**  
+
+If you wish to play against a computer strategy, enter the command: 
 * **python3 hog_gui.py -f** 
 
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes. However, the following special rules apply:
