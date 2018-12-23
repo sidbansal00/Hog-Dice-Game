@@ -1,7 +1,7 @@
 # Hog-Dice-Game
 
 Once you have downloaded the files, if you wish to play against a friend, enter the command: 
-* **python3 hog_gui.py** 
+* **python3 hog_gui.py**           
 If you wish to play against a computer strategy, enter the command: 
 * **python3 hog_gui.py -f** 
 
